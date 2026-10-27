@@ -154,7 +154,7 @@ export default function Navbar() {
       {/* Auth & External Links area */}
       <div className="hidden md:flex items-center gap-3">
         <a
-          href="https://github.com"
+          href="https://github.com/ayushpanaskar1234/JudgeLite"
           target="_blank"
           rel="noopener noreferrer"
           title="Star on GitHub"
